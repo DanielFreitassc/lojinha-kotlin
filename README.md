@@ -10,7 +10,7 @@ Lojinha é um aplicativo de compras simples e funcional, onde clientes podem nav
 ✔️ Interface com Jetpack Compose  
 
 📷 **Imagem do App**  
-![image](https://github.com/user-attachments/assets/4d105b08-a39b-473f-985b-e4125361b232)
+![image](https://github.com/user-attachments/assets/eeb49113-eeae-4ffa-9132-8b7bed258ac5)
 
 💰 **Experimente Agora!**  
 Gerencie compras e descubra como seria administrar sua própria lojinha! 🚀
