@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "lojinha"
+rootProject.name = "lojinha-kotlin"
 include(":app")
- 
